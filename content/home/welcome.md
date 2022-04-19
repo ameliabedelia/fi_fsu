@@ -9,7 +9,11 @@ weight: 10 # Order that this section will appear.
 title: |
   **The Barber Lab**  @
   Friedrich Schiller University Jena
-hero_media: welcome.png
+hero_media: reboot_light.png
+
+# cta:
+#   url: '/about'
+#   label: "Research →"
 
 
 design:
@@ -23,3 +27,5 @@ design:
 <br>
 
 We study how environmental fungi cause human disease and acquire drug resistance.
+
+<br>

@@ -1,22 +1,23 @@
 # Theme metadata
-name = "my_theme"
+name = "Minimal"
 
 [light]
   # Primary
-  primary = "#05204A"
+  primary = "#483d8b"
 
   # Menu
   menu_primary = "#fff"
-  menu_text = "#05204A"
-  menu_text_active = "#E03616"
-  menu_title = "#A61C3C"
+  menu_text = "#34495e"
+  menu_text_active = "#800080"
+  menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "rgb(251, 251, 251)"
+  home_section_even = "rgb(255, 255, 255)"
 
 [dark]
   # Primary
   primary = "#bbdefb"
+
   link = "#bbdefb"
   link_hover = "#bbdefb"
