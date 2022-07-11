@@ -15,7 +15,7 @@ interests:
 - Fungal pathogenesis
 - Host response during infection
 organizations:
-- name: Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute (HKI)
+- name: Friedrich Schiller University Jena
 #  url:
 role: "PhD student"
 social:
