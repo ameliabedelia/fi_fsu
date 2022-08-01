@@ -22,7 +22,7 @@ role: "Group Leader"
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:amelia.barber@leibniz-hki.de'
+  link: 'mailto:amelia.barber@uni-jena.de'
 - icon: cv
   icon_pack: ai
   link: https://barber.science/top/vitae_files/CV.pdf
