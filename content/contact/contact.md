@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   #email: amelia.barber@uni-jena.de
-  #phone: +49 (0) 3641 532-1597
+  phone: +49 (0)3641 9-49793
   address:
     street: Rosalind-Franklin-Straße 1
     city: Jena
