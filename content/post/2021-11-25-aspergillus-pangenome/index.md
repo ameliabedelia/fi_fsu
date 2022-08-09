@@ -1,6 +1,6 @@
 ---
 title: "New publication on the genomic diversity of Aspergillus fumigatus"
-subtitle: ""
+subtitle: "Work from Amelia's postdoc was recently published in Nature Microbiology."
 summary: "Aspergillus fumigatus pan-genome analysis identifies genetic variants associated with human infection"
 authors: []
 tags: []
@@ -9,6 +9,7 @@ date: '2021-11-25'
 featured: false
 draft: false
 reading_time: false
+share: false
 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:

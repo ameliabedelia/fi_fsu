@@ -11,7 +11,7 @@ date: 2020-09-24
 featured: false
 draft: false
 reading_time: false
-
+share: false
 image:
   caption: ""
   focal_point: "Smart"

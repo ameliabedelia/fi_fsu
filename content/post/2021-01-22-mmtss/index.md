@@ -9,6 +9,7 @@ date: "2021-01-22"
 featured: false
 draft: false
 reading_time: false
+share: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
