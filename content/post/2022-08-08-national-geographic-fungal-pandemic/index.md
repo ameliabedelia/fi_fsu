@@ -18,3 +18,7 @@ image:
   preview_only: false
 
 ---
+
+Read the full article at https://www.nationalgeographic.com/magazine/article/humans-are-not-prepared-for-a-pandemic-caused-by-fungal-infections.
+
+PDF version also available [here](humans-are-not-prepared-for-a-pandemic-caused-by-fungal-infections.pdf)
