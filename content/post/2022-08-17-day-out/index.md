@@ -35,5 +35,6 @@ Here are a few photos from the day:
 
 ![castle on a hilltop](2022-08-16_castle.jpeg "Leuchtenburg castle ie the destination (image credit: Matt Blango)")
 
-![people hiking in the forrest](2022-08-16_hiking.jpg "Scientists in the woods!")
+![people hiking in the forrest](2022-08-16_hiking.jpeg "Scientists in the woods!")
 
+![view of farmland and a city](2022-08-16_view.jpeg "The view wasn't bad either :grinning:")

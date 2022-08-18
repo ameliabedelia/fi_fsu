@@ -15,13 +15,13 @@ email: "pending"
 # - 
 # - 
 organizations:
-- name: Friedrich Schiller University
+- name:
 #  url:
-role: "Research Technician"
+role: 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:pending'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:pending'
 # - icon: cv
 #   icon_pack: ai
 #   link:

@@ -9,15 +9,15 @@ education:
   - course: BS in Biotechnology
     institution: Federal University of Uberlandia, Brazil
     year: 2019
-email: "pending"
+email:
 interests:
 - Bioinformatics
 - Fungal pathogenesis
 - Host response during infection
 organizations:
-- name: Friedrich Schiller University Jena
-#  url:
-role: "PhD student"
+- name: 
+  url:
+role: 
 social:
 - icon: envelope
   icon_pack: fas

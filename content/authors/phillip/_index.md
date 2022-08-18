@@ -16,9 +16,9 @@ interests:
 - Clinical research and drug testing
 - Exploration
 organizations:
-- name: Friedrich Schiller University Jena
+- name:
 #  url: 
-role: "PhD student"
+role: 
 social:
 - icon: envelope
   icon_pack: fas

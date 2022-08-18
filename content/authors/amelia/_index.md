@@ -10,15 +10,15 @@ education:
   - course: BS in Medical Microbiology & Immunology; Women's Studies
     institution: University of Wisconsin-Madison
     year: 2006
-email: "amelia.barber@leibniz-hki.de"
+email: "amelia.barber@uni-jena.de"
 interests:
 - Evolution of fungal pathogeniticy
 - Microbial ecology
 - Antifungal resistance
-organizations:
-- name: Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute (HKI)
-  url: "https://barber.science"
-role: "Group Leader"
+# organizations:
+# - name: 
+#   url: 
+#role: "Group Leader"
 social:
 - icon: envelope
   icon_pack: fas
