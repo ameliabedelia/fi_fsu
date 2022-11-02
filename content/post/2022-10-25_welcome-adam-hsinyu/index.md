@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-title: "Welcome to new members Hsinyu and Adam"
+title: "Welcome to Hsinyu and Adam"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-Welcome to Hsinyu who will be doing her Master's thesis in the group. 
+Welcome to Hsinyu Lin and Adam Ryan! Hsinyu will be doing her Master's thesis in the group and learning to analyse mycobiome data. 
 
-And an additional welcome to Adam Ryan, a visiting doctoral researcher from the group of [Geraldine Butler](https://people.ucd.ie/gbutler) (University College Dublin). Adam is doing a research stay in the group to leverage our expertise in the construction of fungal pangenomes.
+And an additional welcome to Adam Ryan, a visiting doctoral researcher from the group of [Geraldine Butler](https://people.ucd.ie/gbutler) (University College Dublin). Adam is doing a research stay in the group and leveraging our expertise in the construction of fungal pangenomes.
