@@ -4,7 +4,7 @@ share: false
 title: "A Global Survey of Host, Aquatic, and Soil Microbiomes Reveals Ecological Properties Shared between Bacterial and Fungal Generalists"
 authors:
 - Daniel Loos
-- Ailton Pereira da Costa Filho
+- Ailton Pereira
 - Amelia E Barber
 - Gianni Panagiotou
 
