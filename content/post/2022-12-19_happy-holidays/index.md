@@ -3,7 +3,7 @@
 
 title: "Happy Holidays!"
 subtitle: ""
-summary: ""
+summary: "Happy holidays from the Barber and Dutilh groups"
 authors: []
 tags: []
 categories: []

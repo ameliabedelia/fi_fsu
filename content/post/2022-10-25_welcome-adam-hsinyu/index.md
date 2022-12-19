@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 title: "Welcome to Hsinyu and Adam"
 subtitle: ""
-summary: ""
+summary: "Welcome to Master's student Hsinyu and visiting PhD student Adam"
 authors: []
 tags: []
 categories: []
