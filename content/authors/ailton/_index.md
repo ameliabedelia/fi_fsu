@@ -19,9 +19,9 @@ organizations:
   url:
 role: 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:ailton.pereira@leibniz-hki.de'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:ailton.pereira.da.costa.filho@uni-jena.de'
 # - icon: cv
 #   icon_pack: ai
 #   link:

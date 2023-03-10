@@ -10,7 +10,6 @@ education:
   - course: BS in Biology
     institution: Humboldt State University
     year: 2014
-email: "phillip.brassington@leibniz-hki.de"
 interests:
 - Antimicrobial resistance
 - Clinical research and drug testing
@@ -19,10 +18,10 @@ organizations:
 - name:
 #  url: 
 role: 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:phillip.brassington@leibniz-hki.de'
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:phillip.brassington@leibniz-hki.de'
 superuser: false
 title: Phillip Brassington
 user_groups:
