@@ -44,4 +44,4 @@ user_groups:
 ---
 
 Hsinyu Lin is from Taiwan and graduated from National Tsinghua University (NTHU) with dual degrees in 
-Foreign Languages and Literatures and Life Science. She is now a Masters student in Microbiology at Friedrich Schiller University Jena. She has a burgeoning interest in microbiomes and is working on a mycobiome project for her masters thesis. In her leisure time she likes to travel, dance, listen to music, and hang out with friends.
+Foreign Languages and Literatures and Life Science. She is now a Masters student in Microbiology at Friedrich Schiller University Jena. She has a burgeoning interest in microbiomes and is mining publicly available data to characterize the global distribution of human fungal pathogens for her MS thesis. In her leisure time she likes to travel, dance, listen to music, and hang out with friends.

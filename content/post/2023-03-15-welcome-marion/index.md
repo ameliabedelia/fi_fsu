@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 title: "Welcome to Marion"
 subtitle: ""
-summary: "Welcome to our new PhD student Marion"
+summary: "Welcome to our new PhD student Marion!"
 authors: []
 tags: []
 categories: []
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Welcome to Marion Perrier! She will be working on the transcriptome of Aspergillus fumigatus, with a deeper focus on its pathogenicity and antifungal resistance.
+Welcome to Marion Perrier! Marion is a new PhD student in the group and will be working on the transcriptome of *Aspergillus fumigatus*, with a focus on its pathogenicity and antifungal resistance.
