@@ -15,6 +15,6 @@ Fungi are a diverse group of organisms that play critical roles in ecological re
 
 We are part of the **[Institute of Microbiology](https://www.mikrobiologie.uni-jena.de/en)** at the **[Friedrich Schiller University](https://www.uni-jena.de)** in Jena, Germany and the DFG Excellence Cluster **[Balance of the Microverse](https://www.microverse-cluster.de/en/)**. 
 
-![group photo](group_excited.jpeg)
+![group photo](group_painting.jpeg)
 ![microverse](microverse_s.png)
 ![fsu](fsu_black_s.png)
