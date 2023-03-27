@@ -18,7 +18,7 @@ interests:
 # - name: 
 #   url: 
 #role: "PhD student"
-# social:
+social:
  - icon: envelope
    icon_pack: fas
    link: 'mailto:marion.perrier@uni-jena.de'
