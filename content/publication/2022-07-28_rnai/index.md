@@ -1,13 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 share: false
-title: "Functional characterization of the RNA interference pathway in A. fumigatus reveals its potential for antifungal therapy"
+title: "Disruption of the Aspergillus fumigatus RNA interference machinery alters the conidial transcriptome"
 authors:
 - Abdulrahman A Kelani
 - Alexander Bruch
 - Flora Rivieccio
 - Corissa Visser
 - Thomas Krüger
+- Danielle Weaver
+- Xiaoqing Pan
+- Sascha Schaeuble
+- Gianni Panagiotou
 - Olaf Kniemeyer
 - Michael J Bromley
 - Paul Bowyer
@@ -16,7 +20,8 @@ authors:
 - Matthew G Blango
 
 #author_notes:
-doi: "https://doi.org/10.1101/2022.07.28.501871"
+doi: "https://doi.org/10.1261/rna.079350.122"
+date: 2023-04-01
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-07-28
@@ -25,13 +30,13 @@ publishDate: 2022-07-28
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*bioRxiv*"
+publication: "*RNA*"
 publication_short: ""
 
-abstract: "RNA-based medicines are an emerging class of drugs that are changing the way we treat infectious diseases. The versatility of this class is clearly on display in the rapid design and adaptation of the mRNA vaccines to SARS-CoV-2. Despite the success of these approaches against viruses, research into RNA-based therapeutics to treat human fungal pathogens, a major source of human morbidity and mortality, is lacking. Here, we provide an improved mechanistic description of the RNA interference pathway in *Aspergillus fumigatus* and assess this pathway as a potential target for RNA-based medicines. We describe the genetic variation in RNA interference-associated genes in a large collection of environmental and clinical genomes, reveal the proteins regulated by the RNA interference system using advanced proteomics analysis, and define the components essential for hairpin-induced silencing. We then exploit this pathway using a heterologously expressed hairpin RNA construct to silence the pabA gene of *A. fumigatus* to inhibit growth. The data presented here provide a foundation for a mechanistic description of novel RNA regulatory pathways in *A. fumigatus* and reaffirm the importance of improved fungal RNA delivery mechanisms for the future design of RNA-based therapeutics against this important human fungal pathogen."
+abstract: "The RNA interference (RNAi) pathway has evolved numerous functionalities in eukaryotes, with many on display in Kingdom Fungi. RNAi can regulate gene expression, facilitate drug resistance, or even be altogether lost to improve growth potential in some fungal pathogens. In the WHO fungal priority pathogen, *Aspergillus fumigatus*, the RNAi system is known to be intact and functional. To extend our limited understanding of *A. fumigatus* RNAi, we first investigated the genetic variation in RNAi-associated genes in a collection of 217 environmental and 83 clinical genomes, where we found that RNAi components are conserved even in clinical strains. Using endogenously expressed inverted-repeat transgenes complementary to a conditionally essential gene (pabA) or a nonessential gene (pksP), we determined that a subset of the RNAi componentry is active in inverted-repeat transgene silencing in conidia and mycelium. Analysis of mRNA-seq data from RNAi double-knockout strains linked the A. fumigatus dicer-like enzymes (DclA/B) and RNA-dependent RNA polymerases (RrpA/B) to regulation of conidial ribosome biogenesis genes; however, surprisingly few endogenous small RNAs were identified in conidia that could explain this broad change. Although RNAi was not clearly linked to growth or stress response defects in the RNAi knockouts, serial passaging of RNAi knockout strains for six generations resulted in lineages with diminished spore production over time, indicating that loss of RNAi can exert a fitness cost on the fungus. Cumulatively, *A. fumigatus* RNAi appears to play an active role in defense against double-stranded RNA species alongside a previously unappreciated housekeeping function in regulation of conidial ribosomal biogenesis genes."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -48,7 +53,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'https://www.biorxiv.org/content/10.1101/2022.07.28.501871v1.full.pdf'
+url_pdf: 'https://rnajournal.cshlp.org/content/early/2023/04/05/rna.079350.122.full.pdf'
 url_code:
 url_dataset:
 url_poster:
