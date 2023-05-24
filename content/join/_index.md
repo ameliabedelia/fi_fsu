@@ -9,7 +9,7 @@ type: widget_page
 ---
 
 **Open positions, when available, will be listed here.** 
-PhD and postdoc positions are typically announced via the lab's [twitter](https://twitter.com/frau_dr_barber), as well as advertised through common academic job portals. 
+PhD and postdoc positions are typically announced via the lab's [twitter](https://twitter.com/ameliabarberphd), as well as advertised through common academic job portals. 
 
 * *No open positions at this time*
 
