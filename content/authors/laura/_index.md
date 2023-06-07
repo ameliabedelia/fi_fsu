@@ -17,7 +17,7 @@ interests:
 organizations:
 - name:
   url:
-role: Postdoc
+role:
 social:
 # - icon: envelope
 #   icon_pack: fas
