@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: fi_2022-08-16.jpg
+    image: group_2023-06-26.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
