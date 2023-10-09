@@ -1,11 +1,11 @@
 ---
 authors:
 bio: ''
-education:
-  courses:
-  - course: BS in Foreign Languages and Literatures, Life Science
-    institution: National Tsinghua University
-    #year:
+# education:
+#   courses:
+#   - course: BS in Foreign Languages and Literatures, Life Science
+#     institution: National Tsinghua University
+#     #year:
 #email: "pending"
 # interests:
 # - 
@@ -40,8 +40,9 @@ social:
 superuser: false
 title: Hsinyu Lin
 user_groups:
-- Masters Students
+- Alumni
 ---
 
-Hsinyu Lin is from Taiwan and graduated from National Tsinghua University (NTHU) with dual degrees in 
-Foreign Languages and Literatures and Life Science. She is now a Masters student in Microbiology at Friedrich Schiller University Jena. She has a burgeoning interest in microbiomes and is mining publicly available data to characterize the global distribution of human fungal pathogens for her MS thesis. In her leisure time she likes to travel, dance, listen to music, and hang out with friends.
+Hsinyu Lin was a Masters student in the group from 2022-23. Her thesis was on environmental surveillance of human pathogenic fungi using metabarcoding.
+
+She is currently back in her native Taiwan using the bioinformatic skills she acquired in her Masters thesis to perform microbiome analyses for a company. 
