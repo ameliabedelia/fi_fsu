@@ -1,14 +1,21 @@
 ---
 authors:
-
-# interests:
-# - 
-# - 
-# - 
+education:
+  courses:
+  - course: MS in Microbiology
+    institution: Friedrich Schiller University Jena
+    year: 2022
+  - course: BS in Biology
+    institution: Friedrich Schiller University Jena
+    year: 2020
+interests:
+    - Host – pathogen interactions
+    - Fungal pathogenesis
+    - Epigenetics
 organizations:
 - name:
 #  url:
-role: 
+role: Technician
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -34,7 +41,7 @@ social:
 superuser: false
 title: Martin Herde
 user_groups:
-- Research Technicians
+- Researchers
 ---
 
-Martin is a research technician in the group. More info coming soon!
+Martin Herde is a research technician in the group responsible for the wet lab – related work. Coming from Germany, he obtained his BSc in Biology and MSc in Microbiology from the Friedrich Schiller University Jena. Following this he worked as a Scientific Assistant in Jena focusing on the Pathogen – Host interaction of the causal agent for the headsmut disease in corn, the fungus *Sporisorium reilianum* f.sp. zeae and the influence of epigenetic regulation on host specificity. When not working, he enjoys playing volleyball, badminton, hiking and hanging out with friends.

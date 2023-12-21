@@ -17,7 +17,7 @@ interests:
 organizations:
 - name:
 #  url: 
-role: 
+role: PhD Student
 # social:
 # - icon: envelope
 #   icon_pack: fas
@@ -25,7 +25,7 @@ role:
 superuser: false
 title: Phillip Brassington
 user_groups:
-- PhD Students
+- Researchers
 ---
 
 The migratory Phillip Brassington is a doctoral researcher focusing on how to simplify the process of typing a fungal pathogen. 

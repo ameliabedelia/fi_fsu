@@ -17,7 +17,7 @@ interests:
 organizations:
 - name:
   url:
-role:
+role: Postdoc
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -43,7 +43,7 @@ social:
 superuser: false
 title: Laura Fabre
 user_groups:
-- Postdocs
+- Researchers
 ---
 
 Laura is a postdoc with a background in virology who has done research in her native Argentina and Italy before coming to Germany. During her PhD studies, she developed a strong interest in bioinformatics and its application in understanding human diseases. During her postdoctoral training at the University of La Plata in Argentina, she focused on long non-coding RNA in cancer.  

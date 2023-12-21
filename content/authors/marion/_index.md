@@ -17,7 +17,7 @@ interests:
 # organizations:
 # - name: 
 #   url: 
-#role: "PhD student"
+role: "PhD Student"
 social:
  - icon: envelope
    icon_pack: fas
@@ -43,7 +43,7 @@ social:
 superuser: false
 title: Marion Perrier 
 user_groups:
-- PhD Students
+- Researchers
 ---
 
 Marion Perrier is a PhD student working with the transcriptome of *Aspergillus fumigatus*, with a deeper focus on its pathogenicity and antifungal resistance. Coming from France, she obtained her BSc in biochemistry, molecular biology and microbiology in 2018, and graduated in 2020 with a bioinformatics MSc in the south of France. Then, she worked as a bioinformatician engineer at the Toulouse cancer research centre for two years, where she mainly analysed various transcriptomics data and developed a new single-cell visualisation tool. Outside of the lab, she enjoys roller skating, playing musical instruments, a board games evening with friends, and occasionally reading about exobiology.

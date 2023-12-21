@@ -17,7 +17,7 @@ interests:
 organizations:
 - name: 
   url:
-role: 
+role: PhD Student
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -43,7 +43,7 @@ social:
 superuser: false
 title: Ailton Pereira da Costa Filho
 user_groups:
-- PhD Students
+- Researchers
 ---
 
 Native to Brazil, Ailton worked with the *in silico* analysis of plant microRNAs in animal fluids during his undergraduate studies. Later, he  worked at the Brazilian Center for Research in Energy and Materials (CNPEM) in structural biology, where he assisted in the characterization of enzymes involved in the human inflammasome pathway. Most recently in his master's degree, he elucidated the function of several GPCRs from *Aspergillus fumigatus*. Ailton's PhD project is centered on understanding how fungal-bacterial interactions in the environment shape human pathogenicity in fungi.
