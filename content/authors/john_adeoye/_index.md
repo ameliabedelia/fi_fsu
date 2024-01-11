@@ -8,7 +8,7 @@ authors:
 organizations:
 - name:
 #  url:
-role: Guest researcher
+role: 
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -34,7 +34,7 @@ social:
 superuser: false
 title: John Adeoye
 user_groups:
-- Researchers
+- Alumni
 ---
 
-John is a visiting PhD student from the the group of Neta Shlezinger at the Hebrew University of Jerusalem, Israel. He is driven by a fascination to uncover how *Aspergillus fumigatus* adapts to the human host environment within the context of fungal regulated cell death. Beyond the lab, he enjoys the freedom of biking and the art of amateur photography, both of which allows him to explore the world from unique perspectives.
+John was a visiting PhD student from the the group of Neta Shlezinger at the Hebrew University of Jerusalem, Israel who spent 3 months in the group learning to analyze genomic data.
