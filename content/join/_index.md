@@ -8,9 +8,11 @@ banner:
 type: widget_page
 ---
 
-**Open positions, when available, will be listed here.** 
-PhD and postdoc positions are typically advertised through common academic job portals as well as listed below. 
+**We are currently seeking motivated bachelor and masters students.** If interested, please send an email with your CV and a short paragraph about your interest in the group to amelia.barber@uni-jena.de.
 
-* *No open positions at this time*
+In addition, we periodically offer fully-funded position PhD and postdoc positions. These are typically advertised through common academic job portals as well as listed below. 
 
-If you are a prospective member interested in applying for fellowships or with independent funding, please get in touch with your CV and a description of your interest in the group (or potential project ideas!).
+* *No open PhD or postdoc positions at this time*
+
+If you are a prospective PhD student or postdoc interested in applying for fellowships or with independent funding, please get in touch with your CV and a description of your interest in the group (or potential project ideas!).
+
