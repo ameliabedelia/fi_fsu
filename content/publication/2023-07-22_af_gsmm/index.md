@@ -19,7 +19,7 @@ authors:
 
 #author_notes:
 doi: "https://doi.org/10.1038/s41467-023-39982-5"
-date: 2023-07-2-
+date: 2023-07-22
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-07-22
@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "*Nature Communications*"
 publication_short: ""
 
-abstract: "*Aspergillus fumigatus*, an opportunistic human pathogen, frequently infects the lungs of people with cystic fibrosis and is one of the most common causes of infectious-disease death in immunocompromised patients. Here, we construct 252 strain-specific, genome-scale metabolic models of this important fungal pathogen to study and better understand the metabolic component of its pathogenic versatility. The models show that 23.1% of *A. fumigatus* metabolic reactions are not conserved across strains and are mainly associated with amino acid, nucleotide, and nitrogen metabolism. Profiles of non-conserved reactions and growth-supporting reaction fluxes are sufficient to differentiate strains, for example by environmental or clinical origin. In addition, shotgun metagenomics analysis of sputum from 40 cystic fibrosis patients (15 females, 25 males) before and after diagnosis with an *A. fumigatus* colonization suggests that the fungus shapes the lung microbiome towards a more beneficial fungal growth environment associated with aromatic amino acid availability and the shikimate pathway. Our findings are starting points for the development of drugs or microbiome intervention strategies targeting fungal metabolic needs for survival and colonization in the non-native environment of the human lung.."
+abstract: "*Aspergillus fumigatus*, an opportunistic human pathogen, frequently infects the lungs of people with cystic fibrosis and is one of the most common causes of infectious-disease death in immunocompromised patients. Here, we construct 252 strain-specific, genome-scale metabolic models of this important fungal pathogen to study and better understand the metabolic component of its pathogenic versatility. The models show that 23.1% of *A. fumigatus* metabolic reactions are not conserved across strains and are mainly associated with amino acid, nucleotide, and nitrogen metabolism. Profiles of non-conserved reactions and growth-supporting reaction fluxes are sufficient to differentiate strains, for example by environmental or clinical origin. In addition, shotgun metagenomics analysis of sputum from 40 cystic fibrosis patients (15 females, 25 males) before and after diagnosis with an *A. fumigatus* colonization suggests that the fungus shapes the lung microbiome towards a more beneficial fungal growth environment associated with aromatic amino acid availability and the shikimate pathway. Our findings are starting points for the development of drugs or microbiome intervention strategies targeting fungal metabolic needs for survival and colonization in the non-native environment of the human lung."
 
 # Summary. An optional shortened abstract.
 summary: ""
