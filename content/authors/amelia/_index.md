@@ -38,9 +38,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ameliabedelia
-- icon: globe
-  icon_pack: fas
-  link: https://barber.science
+# - icon: globe
+#   icon_pack: fas
+#   link: https://barber.science
 superuser: true
 title: Amelia Barber
 user_groups:
