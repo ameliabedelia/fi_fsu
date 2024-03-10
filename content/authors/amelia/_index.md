@@ -25,7 +25,7 @@ social:
   link: 'mailto:amelia.barber@uni-jena.de'
 - icon: cv
   icon_pack: ai
-  link: pdf/CV.pdf
+  link: pdf/barber_cv_website.pdf
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-3399-1037
