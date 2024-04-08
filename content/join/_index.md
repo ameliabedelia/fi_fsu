@@ -12,7 +12,7 @@ type: widget_page
 
 In addition, we periodically offer fully-funded position PhD and postdoc positions. These are typically advertised through common academic job portals as well as listed below. 
 
-* [*PhD student in Bioinformatics or Microbiology*](https://jobs.hki-jena.de/jobs/Doctoral-Researcher-mfdiv-in-Bioinformatics-and-Microbiolo-eng-j519.html) (Applications reviewed on a rolling basis)
+* *No open PhD or postdoc positions at this time*
 
 If you are a prospective PhD student or postdoc interested in applying for fellowships or with independent funding, please get in touch with your CV and a description of your interest in the group (or potential project ideas!).
 
