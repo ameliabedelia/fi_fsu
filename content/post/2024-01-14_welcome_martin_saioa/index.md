@@ -30,6 +30,6 @@ image:
 projects: []
 ---
 
-Welcome to our new technician, Martin, who will help the lab in the generation of experimental datasets.
+Welcome to our new technician, Martin, who will be responsible for the generation of experimental datasets in the wet lab. He comes to us with prior experience working with fungi and nucleic acids.
 
 Also welcome to Saioa Cendon! Saioa is a visiting PhD student from the University of the Basque Country (Bilbao, Spain). She is doing a 3-month research stay in the group funded by FEMS to study the genomes of environmental Aspergillus fumigatus strains.
