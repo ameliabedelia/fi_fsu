@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-*Text by Marion Perrier*
+*Text by Marion Perrier and Laura Fabre*
 
 Our team gathered for a two-day retreat in Eisenach, diving deep into everything fungi-related, from wet lab to bioinformatics, were we drew each other's graphical abstracts based on the lab members' presentations about their latest work. We also discussed several science-adjacent topics: this year, we talked about how to write a CV for academic and non-academic positions, semi-predatory publishing and inequalities in science, giving nice talks, choosing the right journal to publish your work, and how to improve figures in papers.
 
