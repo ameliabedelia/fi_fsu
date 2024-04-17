@@ -3,7 +3,7 @@
 
 title: "New publication from the group"
 subtitle: ""
-summary: "The lab's latest paper, a collaboration with the group of Gianni Panagiotou, was just published in Cell Reports"
+summary: "The lab's latest paper was just published in Cell Reports"
 authors: []
 tags: []
 categories: []
@@ -28,7 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The group's first publication, a collaboration with the Microbiome Dynamics group at the Leibniz - Hans-Knöll-Institute, was just published in Cell Reports.
+The group's first publication, a collaboration with the group of Gianni Panagiotou at the Leibniz - Hans-Knöll-Institute, was just published in Cell Reports.
 
 Environmental change affects microbial communities, which are crucial for the health of the Earth and humans. In this study, we analyzed DNA sequences from more than 1,500 microbial communities from different habitats to identify how robust or sensitive the bacteria and fungi are to environmental changes. We discovered that certain bacteria and fungi are consistently found in high abundance across different environments, and are classified as generalists due to their ability to thrive in various conditions. On the other hand, some microbes were found only in specific habitats due to strict habitat requirements that limited their distribution (specialists). In addition to these different occurrence patterns, we observed that the bacterial generalists possessed larger genomes with an enrichment in biosynthetic gene clusters and antimicrobial resistance genes.
 
