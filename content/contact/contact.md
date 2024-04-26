@@ -18,7 +18,7 @@ content:
   #email: amelia.barber@uni-jena.de
   phone: +49 (0)3641 9-49793
   address:
-    street: Rosalind-Franklin-Straße 1
+    street: Rosalind-Franklin-Straße
     city: Jena
     region: 
     postcode: '07745'
