@@ -8,7 +8,7 @@ authors:
 organizations:
 - name:
 #  url:
-role: Guest researcher
+role:
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -34,7 +34,7 @@ social:
 superuser: false
 title: Saioa Cendon
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Saioa Cendon is a PhD student from the University of the Basque Country (UPV/EHU). During her research stay in Jena, she will use genomics to identify putative resistance mechanisms in *Aspergillus fumigatus* strains isolated from the Basque Country air.
+Saioa Cendon was a visiting PhD student from the University of the Basque Country (UPV/EHU) on a fellowship from FEMS. During her research stay, she used genomics to characterize *Aspergillus fumigatus* strains isolated from the Basque Country air.
