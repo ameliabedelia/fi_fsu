@@ -8,7 +8,7 @@ authors:
 organizations:
 - name:
 #  url:
-role: 
+role: 'Technician'
 social:
 # - icon: envelope
 #   icon_pack: fas

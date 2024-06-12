@@ -14,7 +14,7 @@ bio: ''
 organizations:
 - name:
 #  url:
-role: 
+role: 'MSc student'
 social:
 # - icon: envelope
 #   icon_pack: fas
