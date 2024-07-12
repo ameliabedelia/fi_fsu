@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'static/pdf/2024-ppath-pangenomes.pdf'
+url_pdf: 'pdf/2024-ppath-pangenomes.pdf'
 url_code:
 url_dataset:
 url_poster:

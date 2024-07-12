@@ -41,7 +41,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'https://rdcu.be/dyPss'
+url_pdf: 'pdf/2024-breaking-the-mould.pdf'
 url_code:
 url_dataset:
 url_poster:

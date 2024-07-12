@@ -42,7 +42,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'static/pdf/2024-Generalist-Specialist-Cell-Reports.pdf'
+url_pdf: 'pdf/2024-Generalist-Specialist-Cell-Reports.pdf'
 url_code:
 url_dataset:
 url_poster:
