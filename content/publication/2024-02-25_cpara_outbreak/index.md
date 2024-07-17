@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 share: false
-title: "Genomic reconstruction of an azole-resistant Candida parapsilosis outbreak and the creation of a multilocus sequence typing scheme"
+title: "Genomic reconstruction of an azole-resistant Candida parapsilosis outbreak and the creation of a multilocus sequence typing scheme: a retrospective observational and genomic epidemiology study"
 authors:
 
 - Phillip Brassington
@@ -30,16 +30,16 @@ publication: "*medRxiv*"
 publication_short: ""
 
 abstract: "**Background.**  
-Fluconazole-resistant Candida parapsilosis has emerged as a significant healthcare-associated pathogen with a propensity to spread patient-to-patient and cause nosocomial outbreaks, similar to Candida auris. This study investigates a prolonged outbreak of fluconazole-resistant C. parapsilosis across multiple years and healthcare centers in Germany.  <br>
+Fluconazole-resistant *Candida parapsilosis* has emerged as a significant healthcare-associated pathogen with a propensity to spread patient-to-patient and cause nosocomial outbreaks, similar to *Candida auris*. This study investigates a prolonged outbreak of fluconazole-resistant *C. parapsilosis* across multiple years and healthcare centers in Berlin, Germany.  <br>
 
 **Methods.**  
-We employed whole-genome sequencing of isolates from the outbreak, other regions within Germany, and compared them with isolates from a global distribution to understand the molecular epidemiology of this outbreak. Additionally, we used the genomic dataset of 258 samples to identify loci with high discriminatory power to establish the first multi-locus sequence typing (MLST) strategy for C. parapsilosis.  <br>
+In this retrospective observational study, we used whole-genome sequencing of isolates from the outbreak in Berlin and other regions within Germany and compared them with isolates from a global distribution to understand the molecular epidemiology of this outbreak. Additionally, we used the genomic dataset of global samples to identify loci with high discriminatory power to establish a multi-locus sequence typing (MLST) strategy for *C. parapsilosis*.  <br>
 
 **Findings.**  
-A clonal, azole-resistant strain of C. parapsilosis was observed causing invasive infections over multiple years and in multiple hospitals within the outbreak city. Including this outbreak clone, we identified three distinct ERG11 Y132F azole-resistant lineages in Germany, marking the first description of this azole-resistance in the country and its endemic status. Using the novel MLST strategy, isolates were categorized into 31 sequence types, proving the utility of the typing scheme for genetic epidemiology and outbreak investigations as a rapid alternative to whole genome sequencing.  
+A clonal, azole-resistant strain of *C. parapsilosis* was observed causing 33 cases of invasive infection from 2018-2022 in multiple hospitals within the outbreak city. Whole genome sequencing revealed that outbreak strains were separated by an average of 36 single nucleotide variants, while outbreak strains differed from outgroup samples from Berlin and other regions of Germany by an average of 2,112 variants. Temporal and genomic reconstruction of the outbreak cases indicated that transfer of patients between healthcare facilities was likely responsible for the persistent reimportation of the drug-resistant clone and subsequent person-to-person transmission. German outbreak strains were closely related to strains responsible for an outbreak in Canada and to others isolated in the Middle East and East Asia. Including the outbreak clone, we identified three distinct ERG11 Y132F azole-resistant lineages in Germany, marking the first description of this azole-resistance in the country and its endemic status. Using the novel MLST strategy, a global collection of 386 isolates was categorized into 62 sequence types, with the outbreak strains all belonging to the same sequence type. <br>
 
 **Interpretation.** 
-Temporal and genomic reconstruction of the outbreak indicated that transfer of patients between healthcare facilities was likely responsible for the persistent reimportation of the drug-resistant clone and subsequent person-to-person transmission. This research underscores the importance of monitoring of C. parapsilosis epidemiology, not only in Germany but globally. The emergence of azole-resistant lineages necessitates continuous surveillance and rigorous infection control measures. By combining large-scale genomic epidemiology and introducing a novel typing method, our study offers valuable insights into the management of emerging healthcare-associated pathogens, with direct implications for public health and clinical practice."
+This study underscores the emergence of drug resistant fungal pathogens that can spread patient-to-patient within a healthcare system, but also around the globe. This highlights the importance of monitoring *C. parapsilosis* epidemiology globally and of continuous surveillance and rigorous infection control measures at the local scale. Through large-scale genomic epidemiology, our study offers a high-resolution view of how a drug-resistant clone behaved in a local healthcare system and how this clone fits into the global epidemiology of this pathogen. We also demonstrate the utility of the novel typing scheme for genetic epidemiology and outbreak investigations as a faster and less expensive alternative to whole genome sequencing."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -56,7 +56,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'https://www.medrxiv.org/content/10.1101/2024.02.22.24302918v1.full.pdf'
+url_pdf: 'https://www.medrxiv.org/content/10.1101/2024.02.22.24302918v2.full.pdf'
 url_code:
 url_dataset:
 url_poster:
