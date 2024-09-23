@@ -7,7 +7,7 @@ banner:
 ---
 
 
-Fungi are a diverse group of organisms that play critical roles in ecological recycling and industrial production, but are also the causative agents of plant and animal disease. Human fungal infections, in particular, are an underappreciated problem and are responsible for more deaths each year than tuberculosis or malaria (source: [gaffi.org](https://gaffi.org)). While a few fungal species have evolved to be human commensals, the vast majority of fungi, including those that are able to infect humans, have lifestyles largely independent of the human environments they cause disease in. **Our goal is to understand how environmental fungi such as *Aspergillus fumigatus*, *Fusarium* spp, and *Rhizopus* spp are able to cause human disease and acquire drug resistance** using a combination of experimental and computational approaches. In particular, we focus on:
+Fungi are a diverse group of organisms that play critical roles in ecological recycling and industrial production, but are also the causative agents of plant and animal disease. Human fungal infections, in particular, are an underappreciated problem and are responsible for more deaths each year than tuberculosis or malaria (source: [gaffi.org](https://gaffi.org)). While a few fungal species have evolved to be human commensals, the vast majority of fungi, including those that are able to infect humans, have lifestyles largely independent of the human environments they cause disease in. **Our goal is to understand how environmental fungi such as *Aspergillus* spp and *Fusarium* spp are able to cause human disease and acquire drug resistance** using a combination of experimental and computational approaches. In particular, we focus on:
 
 - The ecological interactions that shape human pathogenicity in environmental fungi
 - The genomic and phenotypic relationship between environmental and clinical isolates of human fungal pathogens
@@ -17,4 +17,8 @@ We are part of the **[Institute of Microbiology](https://www.mikrobiologie.uni-j
 
 ![group photo](group_painting.jpeg)
 ![microverse](microverse_s.png)
+
 ![fsu](fsu_black_s.png)
+
+The group is currently funded by the following sources:
+![funding](funding.png)
