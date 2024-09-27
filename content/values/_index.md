@@ -14,4 +14,6 @@ Our goal is to understand how human pathogenic fungi cause disease and develop a
 
 We are a diverse group of scientists from around the world with many different backgrounds. We firmly believe that each individual background brings a unique perspective that we welcome. In agreement with these values, we welcome scientists regardless of their race, color, national origin, ethnicity, religion, sex, gender, sexual orientation, veteran status, marital status, family status, and disability. 
 
-We believe that progress in science is only possible in a society that upholds democracy, human dignity, and a welcoming environment for all. Therefore, we support [»Weltoffenes Thüringen«](https://www.thueringen-weltoffen.de/).
+We believe that progress in science is only possible in a society that upholds democracy, human dignity, and a welcoming environment for all. Therefore, we support the [Weltoffenes Thüringen](https://www.thueringen-weltoffen.de/) initiative.
+
+{{< figure src="woth_rgb.png" width="50%" >}}
