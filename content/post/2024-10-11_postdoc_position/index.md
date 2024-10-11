@@ -39,7 +39,7 @@ uncharacterized. This project will systematically identify fungal factors and pa
 important for environmental interactions that moonlight as virulence strategies during
 infection. The methodology will include high throughput through screening of
 human fungal pathogens such as *Aspergillus fumigatus* with other environmental
-bacteria, fungi, and protists, infection models, molecular genetics, and NGS data analysis.
+bacteria, fungi, and protists, *in vitro* infection models, molecular genetics, and NGS data analysis.
 
 **Requirements:**
 * PhD in the biological sciences, bioinformatics, or related disciplines. Applicants in
@@ -48,9 +48,7 @@ the final stages of obtaining their degree are encouraged to apply.
 * Curiosity, motivation, enthusiasm, and attention to detail
 
 **Nice to have, but not required:**
-* Familiarity with analysis of NGS data and R or Python for statistics and data
-analysis. However, an eagerness and commitment to learning is more important
-than previous experience.
+* Proficiency using R or Python for statistics and data analysis, familiarity with NGS data analysis. But an eagerness and commitment to learn is more important than previous experience.
 * Experience with microbial co-culture setups or designing synthetic microbial
 communities.
 
