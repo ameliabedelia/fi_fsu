@@ -4,7 +4,7 @@ share: false
 title: "Genomic reconstruction of an azole-resistant Candida parapsilosis outbreak and the creation of a multilocus sequence typing scheme: a retrospective observational and genomic epidemiology study"
 authors:
 
-- Phillip Brassington
+- Phillip JT Brassington
 - Frank-Rainer Klefisch
 - Barbara Graf
 - Roland Pfüller
@@ -14,19 +14,19 @@ authors:
 
 #author_notes:
 doi: "https://doi.org/10.1101/2024.02.22.24302918"
-date: 2024-02-24
+date: 2024-10-01
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-02-24
+publishDate: 2024-07-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*medRxiv*"
+publication: "*The Lancet Microbe*"
 publication_short: ""
 
 abstract: "**Background.**  

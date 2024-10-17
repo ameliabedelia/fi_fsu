@@ -41,7 +41,7 @@ social:
 #   icon_pack: fas
 #   link: 
 superuser: false
-title: Marion Perrier 
+title: Marion Perrier 
 user_groups:
 - Researchers
 ---

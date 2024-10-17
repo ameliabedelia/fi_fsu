@@ -3,8 +3,8 @@
 share: false
 title: "Comparative pan-genomics reveals divergent adaptations in clinically-relevant members of the Fusarium solani species complex"
 authors:
-- Phillip Brassington
-- Laura Fabre
+- Phillip JT Brassington
+- Maria Laura Fabre
 - Anna Zimmermann
 - Marion Perrier
 - Ronny Martin

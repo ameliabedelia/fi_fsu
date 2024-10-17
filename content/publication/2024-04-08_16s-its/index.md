@@ -4,7 +4,7 @@ share: false
 title: "A global survey of host, aquatic, and soil microbiomes reveals shared abundance and genomic features between bacterial and fungal generalists"
 authors:
 - Daniel Loos
-- Ailton Pereira
+- Ailton Pereira da Costa Filho
 - Bas E Dutilh
 - Amelia E Barber
 - Gianni Panagiotou
