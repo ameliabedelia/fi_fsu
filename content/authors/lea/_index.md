@@ -8,7 +8,7 @@ authors:
 organizations:
 - name:
 #  url:
-role: Bachelors student
+role: Student assistant
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -37,5 +37,5 @@ user_groups:
 - Researchers
 ---
 
-Lea is a bachelor student studying bioinformatics at the University of Jena. She is doing her bachelor thesis in the group on the genomes of *Aspergillus* cryptic species. In her free time she loves baking,
+Lea is in the coursework portion of the MSc in Bioinformatics at the University of Jena and a student assistant in the group. Previously, she completed her bachelor thesis in the group studying the genomes of *Aspergillus* cryptic species. In her free time she loves baking,
 solving Sudokus and going on long walks or hikes with her friends.
