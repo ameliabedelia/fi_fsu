@@ -12,7 +12,7 @@ education:
     year: 2006
 email: "amelia.barber@uni-jena.de"
 interests:
-- Evolution of fungal pathogeniticy
+- Evolution of fungal pathogenicity
 - Microbial ecology
 - Antifungal resistance
 # organizations:

@@ -6,7 +6,7 @@ authors:
 - Phillip JT Brassington
 - Maria Laura Fabre
 - Anna Zimmermann
-- Marion Perrier
+- Maríon Perrier
 - Ronny Martin
 - Oliver Kurzai
 - Amelia E Barber

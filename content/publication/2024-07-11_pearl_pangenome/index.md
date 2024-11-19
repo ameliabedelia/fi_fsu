@@ -3,7 +3,7 @@
 share: false
 title: "Unraveling the genomic diversity and virulence of human fungal pathogens through pangenomics"
 authors:
-- Marion Perrier
+- Maríon Perrier
 - Amelia E Barber
 
 #author_notes:

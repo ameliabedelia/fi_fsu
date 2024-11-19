@@ -34,4 +34,8 @@ projects: []
 
 The study was published in *The Lancet Microbe*, with leading contributions by PhD student Phillip, and great collaboration with the NRZMyk (h/t Grit Walther) and experts from the Paulinen Hospital and diagnostic laboratories in Berlin.
 
-Read the full article here: **https://doi.org/10.1016/j.lanmic.2024.07.012**
+Read the press release in
+**[English](https://www.uni-jena.de/en/286726/drug-resistant-fungi-spreading)** or
+**[German](https://www.uni-jena.de/286726/medikamentenresistente-pilze-breiten-sich-aus)**.
+
+The full article is available here: **https://doi.org/10.1016/j.lanmic.2024.07.012**
