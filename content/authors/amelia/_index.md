@@ -29,8 +29,8 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-3399-1037
-- icon: bluesky
-  icon_pack: fab
+- icon: cloud
+  icon_pack: fas
   link: https://bsky.app/profile/ameliabarberphd.bsky.social
 - icon: google-scholar
   icon_pack: ai

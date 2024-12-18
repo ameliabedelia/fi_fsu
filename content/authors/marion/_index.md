@@ -19,24 +19,24 @@ interests:
 #   url: 
 role: "PhD Student"
 social:
- - icon: envelope
-   icon_pack: fas
-   link: 'mailto:marion.perrier@uni-jena.de'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:marion.perrier@uni-jena.de'
 # - icon: cv
 #   icon_pack: ai
 #   link: 
- - icon: orcid
-   icon_pack: ai
-   link: https://orcid.org/0000-0001-9234-1811
-# - icon: twitter
-#   icon_pack: fab
-#   link: 
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: 
- - icon: github
-   icon_pack: fab
-   link: https://github.com/MarionPerrier
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9234-1811
+- icon: cloud
+  icon_pack: fas
+  link: https://bsky.app/profile/marionperrier.bsky.social
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=LXtMBu0AAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/MarionPerrier
 # - icon: globe
 #   icon_pack: fas
 #   link: 
