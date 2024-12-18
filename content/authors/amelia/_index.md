@@ -29,18 +29,15 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-3399-1037
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/AmeliaBarberPhD
+  link: https://bsky.app/profile/ameliabarberphd.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=COgbwJ4AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/ameliabedelia
-# - icon: globe
-#   icon_pack: fas
-#   link: https://barber.science
 superuser: true
 title: Amelia Barber
 user_groups:
