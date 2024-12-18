@@ -42,9 +42,9 @@ But it wasn't all work! We also got to explore that area, including the venue's 
 
 ![treehouse](2024_retreat_treehouse.jpg)
 
-We also got to know each others interests outside the lab, including detecting exoplanets, the art of the Argentinian Mate, and saving money and earning rewards on everyday purchases. 
+We also got to know each others interests outside the lab, including detecting exoplanets, the art of Argentinian Mate, and earning rewards on everyday purchases. 
 
-Finally, no Barber Lab retreat is complete without several rounds of Uno using Ailton's modifications that keep you on your toes and paying attention!
+Finally, no Barber Lab retreat is complete without several rounds of competitive Uno using Ailton's modifications that keep you on your toes and reacting quickly!
 
 ![cards](2024_retreat_cards.jpg)
 
