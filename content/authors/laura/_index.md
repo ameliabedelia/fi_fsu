@@ -4,10 +4,10 @@ bio:
 education:
   courses:
   - course: PhD
-    institution: La Plata University
+    institution: La Plata University, Argentina
     year: 2021
   - course: MS in Biotechnology and Molecular Biology
-    institution: La Plata University
+    institution: La Plata University, Argentina
     year: 2015
 email: 
 interests:
