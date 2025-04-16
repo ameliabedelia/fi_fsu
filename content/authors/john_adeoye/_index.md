@@ -37,4 +37,4 @@ user_groups:
 - Alumni
 ---
 
-John was a visiting PhD student from the the group of Neta Shlezinger at the Hebrew University of Jerusalem, Israel who spent 3 months in the group learning to analyze genomic data.
+John was a visiting PhD student from the the group of Neta Shlezinger at the Hebrew University of Jerusalem, Israel. Funded by an Erasmus scholarship, he spent 3 months in the group learning to analyze fungal genome data.

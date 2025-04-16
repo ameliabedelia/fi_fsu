@@ -38,7 +38,7 @@ Group members summarized their achievements over the past year and led project w
 We also discussed several science-adjacent topics, including where to find funding and the basics of grant writing, time management and working efficiently, and building a personal brand as a scientist.
 We also brought back a favorite from last year and drew graphical abstracts based on another lab members' presentations (top picture above). 
 
-But it wasn't all work! We also got to explore that area, including the venue's tree house.
+But it wasn't all work! We also got to explore the area, which is a UNESCO World Heritage site, through hiking and climbing into the venue's tree house.
 
 ![treehouse](2024_retreat_treehouse.jpg)
 

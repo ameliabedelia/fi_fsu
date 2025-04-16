@@ -45,6 +45,6 @@ Postdoc Laura Fabre wow-ed the audience at the [VAAM Annual Conference](https://
 At the beginning of March, PhD student Marion Perrier did an outstanding job of convincing the Asperfest audience of the power of reference pangenomes and how they can help us learn new things about fungal biology prior to the [ECFG](https://ecfg17.org) main meeting in Dublin, Ireland.
 ![Marion Asperfest talk](2025_marion_asperfest.jpg)
 
-Additional congratulation to Marion who also presented her work as a poster Asperfest at and won one of the poster prizes!
+Additional congratulation to Marion who also presented her work as a poster at Asperfest and won one of the four poster prizes!
 
 ![Marion Asperfest prize](2025_marion_asperfest_prize.jpg)

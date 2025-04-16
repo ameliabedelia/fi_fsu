@@ -17,9 +17,9 @@ organizations:
 #  url:
 role: Technician
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:pending'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:martin.herde@uni-jena.de'
 # - icon: cv
 #   icon_pack: ai
 #   link:

@@ -24,7 +24,7 @@ role: Postdoc
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'pending'
+  link: 'mailto:fabio.palmieri@uni-jena.de'
 # - icon: cv
 #   icon_pack: ai
 #   link: 
