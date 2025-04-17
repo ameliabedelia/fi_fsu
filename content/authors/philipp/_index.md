@@ -28,9 +28,9 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link:
-# - icon: linkedin
-#   icon_pack: fab
-#   link: 
+- icon: linkedin
+  icon_pack: fab
+  link: http://linkedin.com/in/philipp-geiberger
 superuser: false
 title: Philipp Geiberger
 user_groups:
