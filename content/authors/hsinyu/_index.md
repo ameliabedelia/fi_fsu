@@ -44,5 +44,3 @@ user_groups:
 ---
 
 Hsinyu Lin was a Masters student in the group from 2022-23. Her thesis was on environmental surveillance of human pathogenic fungi using metabarcoding.
-
-She is currently back in her native Taiwan using the bioinformatic skills she acquired in her Masters thesis to perform microbiome analyses for a company. 

@@ -37,4 +37,4 @@ user_groups:
 - Alumni
 ---
 
-Linnéa completed her masters thesis research in the group as a visiting researcher from Uppsala University. During her time in the group she worked on the phenotypic characterization of *Aspergillus* cryptic species. Her plan for the immediate future is to return to the biotech company where she worked prior to completing her MSc.
+Linnéa completed her masters thesis research in the group as a visiting researcher from Uppsala University. During her time in the group she worked on the phenotypic characterization of *Aspergillus* cryptic species. 
