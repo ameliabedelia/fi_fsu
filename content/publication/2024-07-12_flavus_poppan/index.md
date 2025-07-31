@@ -29,7 +29,7 @@ publishDate: 2025-06-12
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*bioRxiv*. Accepted in principle, Nature Communications"
+publication: "*Nature Communications*, in press. *bioRxiv* version [available](https://doi.org/10.1101/2024.07.05.602241)"
 publication_short: ""
 
 abstract: "*Aspergillus flavus* is a clinically and agriculturally important saprotrophic fungus responsible for severe human infections and extensive crop losses. We analyzed genomic data from 250 (95 clinical and 155 environmental) A. flavus isolates from 9 countries, including 70 newly sequenced clinical isolates, to examine population and pan-genome structure and their relationship to pathogenicity. We identified five *A. flavus* populations, including a new population, D, corresponding to distinct clades in the genome-wide phylogeny. Strikingly, > 75% of clinical isolates were from population D. Accessory genes, including genes within biosynthetic gene clusters, were significantly more common in some populations but rare in others. Population D was enriched for genes associated with zinc ion binding, lipid metabolism, and certain types of hydrolase activity. In contrast to the major human pathogen *Aspergillus fumigatus*, *A. flavus* pathogenicity in humans is strongly associated with population structure, making it a great system for investigating how population-specific genes contribute to pathogenicity."

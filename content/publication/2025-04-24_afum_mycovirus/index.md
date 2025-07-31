@@ -24,7 +24,7 @@ publishDate: 2025-04-24
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*bioRxiv*. Accepted in principle, Nature Microbiology"
+publication: "*Nature Microbiology*, in press. *bioRxiv* version [available](https://doi.org/10.1101/2024.02.16.580674)"
 publication_short: ""
 
 abstract: "Fungal pathogens pose a significant threat to global health. *Aspergillus fumigatus* accounts for approximately 65% of all invasive fungal infections in humans, with mortality rates from invasive aspergillosis reaching nearly 50%. Mycoviruses, viruses that infect fungi, can modulate fungal virulence in plant pathogenic fungi, leading to either hypovirulence or hypervirulence. However, their impact on fungal pathogenesis in mammals has remained largely unexplored. Here, utilizing an *A. fumigatus* strain naturally infected with Aspergillus fumigatus polymycovirus-1M (AfuPmV-1M), we found that the mycovirus confers a significant survival advantage to the fungus under conditions of oxidative stress, heat stress, and within the murine lung. Thus, AfuPmV-1M modulates fungal fitness, resulting in increased virulence and the progression of exacerbated fungal disease. Moreover, antiviral treatment reverses the virus-mediated increase in virulence, representing a promising “antipathogenicity” therapy against virus-bearing pathogenic fungi. Collectively, these findings reveal that mycoviruses act as pivotal’backseat drivers’ in human fungal diseases, underscoring significant clinical implications and offering promising avenues for novel therapeutic strategies."
