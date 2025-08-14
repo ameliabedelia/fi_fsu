@@ -1,21 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 share: false
-title: "Aspergillus dsRNA virus drives fungal fitness and pathogenicity in the mammalian host"
+title: "mSphere of Influence: Population-level thinking to unravel microbial pathogenicity"
 authors:
-- Marina Campos Rocha
-- Vanda Lerer
-- John Adeoye
-- Hilla Hayby
-- Maria Laura Fabre
 - Amelia E Barber
-- Neta Shlezinger
 
 #author_notes:
-doi: "https://doi.org/10.1038/s41564-025-02096-3"
+doi: "https://doi.org/10.1128/msphere.00588-24"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-08-14
+publishDate: 2025-08-12
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +18,10 @@ publishDate: 2025-08-14
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Microbiology*"
+publication: "*mSphere*"
 publication_short: ""
 
-abstract: "*Aspergillus fumigatus* accounts for approximately 65% of all invasive fungal infections in humans, with mortality rates from aspergillosis approaching 50%. Fungal virulence in plant pathogenic fungi can be modulated by viruses that infect fungi, also known as mycoviruses. However, their impact on fungal pathogenesis in mammals has remained largely unexplored. Here, utilizing an *A. fumigatus* strain naturally infected with the double-stranded RNA virus, A. fumigatus polymycovirus-1M (AfuPmV-1M), we found that the mycovirus confers a substantial survival advantage to the fungus under oxidative stress, heat stress and within the murine lung. Virus-cured fungal strains exhibited reduced conidiation, melanin production and levels of proteins involved in RNA metabolism and stress response, resulting in diminished fitness and virulence in mice. Finally, antiviral treatment during infection reduced AfuPmV-1M viral load, leading to improved survival in infected mice. Taken together, these data suggest that mycoviruses play an important and often underappreciated role as molecular ‘backseat drivers’ in fungal fitness, stress tolerance and disease progression."
+abstract: "Amelia E. Barber works in the field of fungal genomics and pathogenesis. In this mSphere of Influence article, she reflects on how the paper “Strain heterogeneity in a non-pathogenic *Aspergillus* fungus highlights factors associated with virulence” from the group of Antonis Rokas changed her view on the binary characterization of microbes as pathogens or non-pathogens. The work highlights the overlapping virulence traits shared between the two groups and encourages the use of a population-based framework. To understand the full spectrum of microbial pathogenic potential, virulence phenotypes are characterized across a strain population of isolates from “pathogenic” species and closely related “non-pathogens,” in this case revealing a continuum rather than a clear distinction."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -44,7 +38,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'https://www.nature.com/articles/s41564-025-02096-3.pdf'
+url_pdf: 'https://journals.asm.org/doi/reader/10.1128/msphere.00588-24'
 url_code:
 url_dataset:
 url_poster:
