@@ -12,7 +12,7 @@ authors:
 - Neta Shlezinger
 
 #author_notes:
-doi: "https://doi.org/10.1038/s41564-025-02096-3"
+doi: "10.1038/s41564-025-02096-3"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-08-14

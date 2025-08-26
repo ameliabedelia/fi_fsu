@@ -13,7 +13,7 @@ authors:
 - Amelia E Barber
 
 #author_notes:
-doi: "https://doi.org/10.1016/j.lanmic.2024.07.012"
+doi: "10.1016/j.lanmic.2024.07.012"
 date: 2024-11-15
 
 # Schedule page publish date (NOT publication's date).

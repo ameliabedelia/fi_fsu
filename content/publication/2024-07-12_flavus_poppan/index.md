@@ -17,7 +17,7 @@ authors:
 - Antonis Rokas
 
 #author_notes:
-doi: "https://doi.org/10.1038/s41467-025-62777-9"
+doi: "10.1038/s41467-025-62777-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-08-15

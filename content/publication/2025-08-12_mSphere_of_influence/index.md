@@ -6,7 +6,7 @@ authors:
 - Amelia E Barber
 
 #author_notes:
-doi: "https://doi.org/10.1128/msphere.00588-24"
+doi: "10.1128/msphere.00588-24"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-08-12
