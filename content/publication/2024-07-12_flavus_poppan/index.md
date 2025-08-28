@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 share: false
-title: "Evidence for a link between pathogenicity and population structure in a fungal pathogen of humans"
+title: "Population structure in a fungal human pathogen is potentially linked to pathogenicity"
 authors:
 - E Anne Hatmaker
 - Amelia E Barber
