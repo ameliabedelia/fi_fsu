@@ -28,6 +28,6 @@ user_groups:
 - Alumni
 ---
 
-Phillip Brassington completed his doctoral thesis research on comparative genomics in *Candida parapsilosis* and the *Fusarium solani* species complex and is currently awaiting his oral defense. 
+Phillip Brassington completed his doctoral thesis in the group on comparative genomics in *Candida parapsilosis* and the *Fusarium solani* species complex. 
 
 His publications from the group can be found [here](https://barber-lab.com/author/phillip-jt-brassington/).
