@@ -7,11 +7,8 @@ education:
     institution: Peking Union Medical College & Peking Union Medical College Hospital, China
     year: 2024
   - course: MPH
-    institution: University of Neuchâtel, Switzerland
-    year: 2020
-  - course: BS in Biology
     institution: Zhejiang Chinese Medical University & Chinese Center for Disease Control and Prevention, China
-    year: 2014
+    year: 2020
 email: 
 interests:
 - Antifungal resistance
