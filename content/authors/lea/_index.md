@@ -8,7 +8,7 @@ authors:
 organizations:
 - name:
 #  url:
-role: Student assistant
+role: MSc Student
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -37,5 +37,4 @@ user_groups:
 - Researchers
 ---
 
-Lea is in the coursework portion of the MSc in Bioinformatics at the University of Jena and a student assistant in the group. Previously, she completed her bachelor thesis in the group studying the genomes of *Aspergillus* cryptic species. In her free time she loves baking,
-solving Sudokus and going on long walks or hikes with her friends.
+Lea is completing a MSc in Bioinformatics at the University of Jena and performing her thesis projects in the group. She was selected for the FSU Honours Programme and also works as a student assistant in the group, providing bioinformatic support to genomic and transcriptomic projects. Previously, she completed her bachelor thesis in the group studying the genomes of *Aspergillus* cryptic species. In her free time she loves baking, solving Sudokus and going on long walks or hikes with her friends.
