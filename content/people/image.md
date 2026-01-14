@@ -22,6 +22,15 @@ content:
         position: Smart
         color: ''
         brightness: 1
+        media: albums/group_pics/93.jpg
+        fit: contain
+    - title: ''
+      content: ''
+      align: Center
+      background:
+        position: Smart
+        color: ''
+        brightness: 1
         media: albums/group_pics/94.jpg
         fit: contain
     - title: ''
