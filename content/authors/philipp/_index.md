@@ -28,13 +28,13 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link:
-- icon: linkedin
-  icon_pack: fab
-  link: http://linkedin.com/in/philipp-geiberger
+# - icon: linkedin
+#   icon_pack: fab
+#   link: 
 superuser: false
 title: Philipp Geiberger
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Philipp is currently completing a BSc in Bioinformatics at the University of Jena and doing his bachelor thesis in the group on DNA:RNA triplexes in pathogenic fungi. In his free time he likes to go for hikes, reading, and exploring new places by train.
+Philipp completed his bachelor thesis in the group exploring DNA:RNA triplexes in pathogenic fungi. 
