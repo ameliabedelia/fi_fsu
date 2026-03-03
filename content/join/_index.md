@@ -14,7 +14,7 @@ We always welcome motivated bachelor and masters students and both lab-based and
 We periodically have openings for fully-funded PhD, postdoc, and support staff (e.g. technicians) positions. These are advertised through common academic job portals as well as listed below: 
 
 * *No advertised positions at this time.*  
-* We anticipate hiring a **postdoc** and a **technician** starting early next year thanks to incoming funding from the Wellcome Trust. If you are interested in either of these roles, please feel free to get in touch or watch this space for the advertisements.
+* We anticipate hiring a **postdoc** and a **technician** in Summer 2026 thanks to incoming funding from the Wellcome Trust. If you are interested in either of these roles, please feel free to get in touch or watch this space for the advertisements.
 
 If you are a prospective PhD student or postdoc interested in applying for a fellowship or with independent funding, please get in touch with your CV and a description of your interest in the group (or potential project ideas!).
 
