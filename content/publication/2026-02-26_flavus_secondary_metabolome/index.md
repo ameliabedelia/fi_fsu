@@ -27,7 +27,7 @@ authors:
 doi: "https://doi.org/10.1038/s41467-026-70721-8"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-02-26
+publishDate: 2026-03-18
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -87,3 +87,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+Chemical innovation is essential for fungi to adapt to ever-changing ecological environments. However, the environmental and evolutionary drivers of fungal metabolic differentiation remain ambiguous. Here, we show the phylogeographic diversity of 1052 Aspergillus flavus strains across four continents, as conducted through phylogenetic and biogeographical analysis, including 544 newly sequenced strains from China. These strains exhibit varying levels of population-specific mycotoxin production, as determined by population metabolomics analysis. We report a toxigenic subpopulation from China, identified through comparative population genomics analysis. Pan-metabolome analysis reveals strong phylogeographic metabolic patterns associated with specific ecological niches. Low-mycotoxin production clades harbor distinct uncharacterized biosynthetic gene clusters and produce different specialized metabolites instead. This discrepancy is only partially explained by variation in biosynthetic pathway genes, and changes in regulation and primary metabolism appear to mainly drive differentiation of specialized metabolite profiles across fungal populations, as indicated by pangenome profiling, metabolites-genome-wide association study, genotype-environment association study, pan-transcriptome analysis, and gene knockout experiments. Altogether, our results reveal how environmental shifts drive the fungal metabolic evolution, and provide insights for predicting the risk of harmful fungal outbreaks and for biogeographically-informed, precise control measures.
