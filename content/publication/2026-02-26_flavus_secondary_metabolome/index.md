@@ -24,7 +24,7 @@ authors:
 - Peiwu Li
 
 #author_notes:
-#doi: ""
+doi: "https://doi.org/10.1038/s41467-026-70721-8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-02-26
@@ -36,7 +36,7 @@ publishDate: 2026-02-26
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Communications*. Accepted"
+publication: "*Nature Communications*"
 publication_short: ""
 
 abstract: ""
