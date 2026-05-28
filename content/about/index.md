@@ -13,7 +13,11 @@ Fungi are a diverse group of organisms that play critical roles in ecological re
 - The genomic and phenotypic relationship between environmental and clinical isolates of human fungal pathogens
 - Uncovering novel mechanisms of antifungal resistance
 
-We are part of the **[Institute of Microbiology](https://www.mikrobiologie.uni-jena.de/en)** at the **[Friedrich Schiller University](https://www.uni-jena.de)** in Jena, Germany and the DFG Excellence Cluster **[Balance of the Microverse](https://www.microverse-cluster.de/en/)**. 
+***
+
+Starting in Summer 2026, we are moving to **[Research Center Borstel - Leibniz Lung Center](https://fz-borstel.de/en/)**, with a joint affiliation at **[Kiel University](https://www.uni-kiel.de/en)**.
+
+As a junior reserach group, we were part of the **[Institute of Microbiology](https://www.mikrobiologie.uni-jena.de/en)** at the **[Friedrich Schiller University](https://www.uni-jena.de)** in Jena, Germany and the DFG Excellence Cluster **[Balance of the Microverse](https://www.microverse-cluster.de/en/)**. 
 
 ![group photo](group_painting.jpeg)
 

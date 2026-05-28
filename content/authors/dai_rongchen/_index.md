@@ -5,7 +5,7 @@ education:
   courses:
   - course: PhD in Clinical Laboratory Diagnostics
     institution: Peking Union Medical College & Peking Union Medical College Hospital, China
-    year: 2024
+    year: In progress
   - course: MPH
     institution: Zhejiang Chinese Medical University & Chinese Center for Disease Control and Prevention, China
     year: 2020
@@ -17,7 +17,7 @@ interests:
 organizations:
 - name:
 #  url:
-role: Visiting researcher
+role: Visiting PhD student
 # social:
 # - icon: envelope
 #   icon_pack: fas
@@ -40,11 +40,8 @@ role: Visiting researcher
 superuser: false
 title: Rongchen Dai
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Rongchen Dai has a PhD from Peking Union Medical College and specializes in Clinical Laboratory Diagnostics. He also performs bioinformatics work for the China Hospital Invasive Fungal Surveillance Net (CHIF-NET) team.
+Rongchen Dai was a visiting researcher from Peking Union Medical College. During his time in the Barber Lab, he focused on population genomics studies of *Candida albicans* and *Candida orthopsilosis*.
 
-During his time in the Barber Lab, he will focus on population genomics studies of *Candida albicans* and *Candida orthopsilosis*. His research stay in Germany is supported by a China Scholarship Council (CSC) fellowship.
-
-Rongchen is deeply passionate about his research. Outside the lab, he enjoys cycling

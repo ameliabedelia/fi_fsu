@@ -7,8 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  **The Barber Lab**  @
-  Friedrich Schiller University Jena
+  **The Barber Lab**
 hero_media: reboot_light.png
 
 # cta:
@@ -26,6 +25,6 @@ design:
 
 <br>
 
-We study how environmental fungi cause human disease and acquire drug resistance.
+We study how fungi cause human disease and acquire drug resistance.
 
 <br>

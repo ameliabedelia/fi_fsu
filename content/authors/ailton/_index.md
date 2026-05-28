@@ -46,6 +46,6 @@ user_groups:
 - Researchers
 ---
 
-Native to Brazil, Aílton worked with the *in silico* analysis of plant microRNAs in animal fluids during his undergraduate studies. Later, he  worked at the Brazilian Center for Research in Energy and Materials (CNPEM) in structural biology, where he assisted in the characterization of enzymes involved in the human inflammasome pathway. Most recently in his master's degree, he elucidated the function of several GPCRs from *Aspergillus fumigatus*. Aílton's PhD project is centered on understanding more about the ecology of human fungal pathogens in their native habitats using amplicon-based and shotgun metagenomic sequencing.
+Aílton has completed his doctoral research in the group and is currently writing his dissertation, which is centered on understanding more about the ecology of human fungal pathogens in their native habitats using amplicon-based and shotgun metagenomic sequencing.
 
 Whether at work or outside, Aílton is a great company for a coffee and to talk about sitcoms.
