@@ -25,6 +25,10 @@ design:
 
 <br>
 
-We study how fungi cause human disease and acquire drug resistance.
+**We study how fungi cause human disease and acquire drug resistance.**
+
+<br>
+
+:mega: We are soon moving from Friedrich Schiller University Jena to our new scientific home at  [Research Center Borstel](https://fz-borstel.de/en/).
 
 <br>

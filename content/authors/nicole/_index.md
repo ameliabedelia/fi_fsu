@@ -49,7 +49,7 @@ user_groups:
 - Researchers
 ---
 
-Nicole Ang is a PhD student studying how climate change-associated environmental stressors shape the adaptation and pathogenic potential of *Aspergillus* species, witha focus on microbial responses to dynamic and stressful environments.
+Nicole Ang is a PhD student studying how climate change-associated environmental stressors shape the adaptation and pathogenic potential of *Aspergillus* species, with a focus on microbial responses to dynamic and stressful environments.
 
 She completed her BSc in Life Sciences at the National University of Singapore, followed by work as a medical technologist in a diagnostic microbiology laboratory, where she worked extensively with clinically relevant pathogens. This experience deepened her interest in microbial life and its resilience. She later obtained an MSc in Biotechnology and transitioned into research in assay development.
 
