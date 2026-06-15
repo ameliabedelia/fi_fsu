@@ -7,7 +7,7 @@ authors:
 - Vanda Lerer
 - John Adeoye
 - Hilla Hayby
-- M. Laura Fabre
+- M Laura Fabre
 - Amelia E Barber
 - Neta Shlezinger
 

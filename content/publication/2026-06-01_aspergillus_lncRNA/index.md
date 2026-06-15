@@ -3,7 +3,7 @@
 share: false
 title: "An Aspergillus lncRNA atlas reveals a novel modulator of aflatoxin biosynthesis"
 authors:
-- M. Laura Fabre
+- M Laura Fabre
 - Jin Woo Bok
 - Benjamin A Haefner
 - Nancy P Keller

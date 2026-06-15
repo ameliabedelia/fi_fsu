@@ -4,7 +4,7 @@ share: false
 title: "Comparative pan-genomics reveals extensive variation in secondary metabolism and the non-coding repertoire of clinically-relevant Fusarium solani species complex members"
 authors:
 - Phillip JT Brassington
-- M. Laura Fabre
+- M Laura Fabre
 - Anna Zimmermann
 - Lea M Krämer
 - Maríon Perrier
