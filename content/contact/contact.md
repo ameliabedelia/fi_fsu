@@ -15,18 +15,18 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  #email: amelia.barber@uni-jena.de
-  phone: +49 (0)3641 9-49793
+  #email: 
+  #phone: 
   address:
-    street: Rosalind-Franklin-Straße
-    city: Jena
+    street: 
+    city: 
     region: 
-    postcode: '07745'
+    postcode: ''
     country: Germany
     country_code: DE
   coordinates:
-    latitude: '50.906958'
-    longitude: '11.568050'
+    latitude: ''
+    longitude: ''
   #directions: 
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
@@ -54,4 +54,4 @@ design:
   columns: '1'
 ---
 
-We are located in the Microverse Interim Buildings on Rosalind-Franklin-Straße. 
+We currently are split between Research Center Borstel and the Microverse Center Jena.

@@ -22,7 +22,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:amelia.barber@uni-jena.de'
+  link: 'mailto:abarber@fz-borstel.de'
 - icon: cv
   icon_pack: ai
   link: pdf/barber_cv_website.pdf
