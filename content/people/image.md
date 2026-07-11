@@ -15,11 +15,20 @@ design:
 
 content:
   slides:
-    - title: ''
-      content: ''
-      align: Center
+    - title: 
+      content: 
+      align: right
       background:
-        position: Smart
+        position: Center
+        color: ''
+        brightness: 1
+        media: 2026-day-out-groupshot.jpg
+        fit: contain
+    - title: 
+      content: 
+      align: right
+      background:
+        position: Center
         color: ''
         brightness: 1
         media: albums/group_pics/93.jpg

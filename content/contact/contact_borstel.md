@@ -7,9 +7,9 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
-title: Contact
+title: How to find us in Borstel
 subtitle:
 
 content:
@@ -18,15 +18,15 @@ content:
   #email: 
   #phone: 
   address:
-    street: 
-    city: 
+    street: Parkallee 1-40
+    city: Borstel
     region: 
-    postcode: ''
+    postcode: '23845'
     country: Germany
     country_code: DE
   coordinates:
-    latitude: ''
-    longitude: ''
+    latitude: '53.818303'
+    longitude: '10.200642'
   #directions: 
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
@@ -53,5 +53,3 @@ content:
 design:
   columns: '1'
 ---
-
-We currently are split between Research Center Borstel and the Microverse Center Jena.
