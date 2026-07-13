@@ -9,6 +9,7 @@ tags: []
 categories: []
 date: 2025-10-17T17:11:33+02:00
 lastmod: 2025-10-17T17:11:33+02:00
+reading_time: false
 featured: false
 draft: false
 

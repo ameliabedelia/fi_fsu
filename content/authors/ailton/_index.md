@@ -25,9 +25,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link:
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-5200-9774
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/0000-0002-5200-9774
 # - icon: twitter
 #   icon_pack: fab
 #   link:
@@ -43,9 +43,7 @@ social:
 superuser: false
 title: Aílton Pereira da Costa Filho
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Aílton has completed his doctoral research in the group and is currently writing his dissertation, which is centered on understanding more about the ecology of human fungal pathogens in their native habitats using amplicon-based and shotgun metagenomic sequencing.
-
-Whether at work or outside, Aílton is a great company for a coffee and to talk about sitcoms.
+Aílton has concluded his thesis research in the group and will soon submit his dissertation, which is centered on understanding more about the ecology of human fungal pathogens in their native habitats using amplicon-based and shotgun metagenomic sequencing.
