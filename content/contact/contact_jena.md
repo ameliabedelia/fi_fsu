@@ -10,13 +10,13 @@ headless: true
 weight: 10
 
 title: How to find us in Jena
-subtitle:
+subtitle: Impressum
 
 content:
   # Contact (edit or remove options as required)
 
-  #email: 
-  #phone: 
+  email: amelia.barber@uni-jena.de
+  phone: +49 (0)3641 949793
   address:
     street: Rosalind-Franklin-Straße 5
     city: Jena
@@ -35,7 +35,7 @@ content:
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
-  #    name: Discuss on Forum
+  #    name: 
   #    link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
@@ -53,5 +53,6 @@ content:
 design:
   columns: '1'
 ---
+Prof. Dr. Amelia E. Barber
 
 (scroll down for how to find us in Borstel)

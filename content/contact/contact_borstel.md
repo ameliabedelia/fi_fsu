@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  #email: 
+  email: abarber@fz-borstel.de
   #phone: 
   address:
     street: Parkallee 1-40
