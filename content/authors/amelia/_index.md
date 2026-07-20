@@ -10,10 +10,10 @@ education:
   - course: BS in Medical Microbiology & Immunology; Women's Studies
     institution: University of Wisconsin-Madison
     year: 2006
-email: "amelia.barber@uni-jena.de"
+email: "amelia.barber@fz-borstl.de"
 interests:
 - Evolution of fungal pathogenicity
-- Microbial ecology
+- Genome biology
 - Antifungal resistance
 # organizations:
 # - name: 
@@ -44,10 +44,10 @@ user_groups:
 - Group Leader
 ---
 
-Amelia Barber is the fearless leader of junior research group Fungal Informatics. Her overarching research interest is understanding how environmental fungi cause human disease in the absence of direct evolutionary selection. As part of this, she is interested in understanding how environmental fungi acquire antifungal resistance, how ecological interactions shape human pathogenicity in these organisms, and the relationship between closely related pathogenic and non-pathogenic species. 
+Amelia Barber is a group leader at Research Center Borstel and full (W3) professor at Kiel University (CAU). Her overarching research aims to is understand how fungi cause human disease through the lenses of genomics, ecology, and clinical mycology. As part of this, she is interested in defining novel mechanisms of antifungal resistance, how ecological interactions shape human pathogenicity in human fungal pathogens, and the genomic and phenotypic relationship between closely related pathogenic and non-pathogenic species. 
 
-She earned her doctorate from the University of Utah studying host-pathogen interactions during *E. coli* infection before switching to the wonderful world of fungi. During her postdoctoral training at the Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute and University of Würzburg, she investigated the impact of azoles fungicides on the ecology and population structure *Aspergillus fumigatus* and the comparative and population genomics of pathogenic *Aspergillus* and *Candida* species.
+She earned her doctorate from the University of Utah studying host-pathogen interactions during *E. coli* infection before switching to the wonderful world of fungi. During her postdoctoral period at the Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute and University of Würzburg, she investigated the impact of azoles fungicides on the ecology and population structure *Aspergillus fumigatus* and the comparative and population genomics of pathogenic *Aspergillus* and *Candida* species. Prior to her current role at Research Center Borstel and CAU, she was a junior group leader at Friedrich Schiller University Jena in the Excellence Cluster Balance of the Microverse. 
 
-When not in the office, you can usually find her biking or hiking around greater Thuringia.  :bike: :athletic_shoe: :national_park:
+When not in the office, you can usually find her biking, hiking or relaxing with her husband and their two giant cats.  :bike: :athletic_shoe: :national_park: :smiley_cat:
 
 
