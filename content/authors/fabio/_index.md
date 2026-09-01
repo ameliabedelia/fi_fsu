@@ -43,7 +43,7 @@ social:
 superuser: false
 title: Fabio Palmieri
 user_groups:
-- Researchers
+- Experimental Mycology and Microbiome Research Group
 ---
 
 Holding a PhD in microbiology from the University of Neuchâtel (Switzerland), Fabio is a researcher passionate about host-pathogen interactions. After completing a postdoctoral position at the Laboratory of Microbiology of the University of Neuchâtel, where his research focused on the interactions between pathogenic fungi —particularly *Aspergillus fumigatus*— and bacteria from the pulmonary microbiota, he will now study the environmental interactions of *A. fumigatus* to understand how they shape it's human pathogenicity. Outside the lab, Fabio enjoys going for a run, exploring the surroundings, reading, and watching series.

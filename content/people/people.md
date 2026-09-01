@@ -17,7 +17,8 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Group Leader
-    - Researchers
+    - Experimental Mycology and Microbiome Research Group
+    - DZL Laboratory for Experimental Microbiome Research
     - Alumni
 design:
   show_interests: false

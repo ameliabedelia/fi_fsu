@@ -34,7 +34,7 @@ social:
 superuser: false
 title: Lea Krämer
 user_groups:
-- Researchers
+- Experimental Mycology and Microbiome Research Group
 ---
 
 Lea is completing a MSc in Bioinformatics at the University of Jena and performing her thesis projects in the group. She was selected for the FSU Honours Programme and also works as a student assistant in the group, providing bioinformatic support to genomic and transcriptomic projects. Previously, she completed her bachelor thesis in the group studying the genomes of *Aspergillus* cryptic species. In her free time she loves baking, solving Sudokus and going on long walks or hikes with her friends.

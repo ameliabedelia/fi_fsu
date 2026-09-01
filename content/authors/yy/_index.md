@@ -43,7 +43,7 @@ social:
 superuser: false
 title: Yuanyuan Tang
 user_groups:
-- Researchers
+- Experimental Mycology and Microbiome Research Group
 ---
 
 Yuanyuan is a postdoc with a background in microbial ecology and evolution. She earned her Ph.D. from The Chinese University of Hong Kong, where she studied the relationship between gut microbiota and their decapod hosts. Motivated by a strong interest in bioinformatics and pathogenic fungi, she went on to complete her first postdoctoral training at the Shenzhen Institutes of Advanced Technology, focusing on fungal genomics. In the Barber group, she is continuing a collaborative project with her previous team, exploring the population genomics and pangenome of the *Candida parapsilosis* species complex to gain insights into the evolution of its pathogenicity. Outside the lab, she enjoys quiet time at home, often relaxing with films, documentaries, and other video content.

@@ -46,7 +46,7 @@ social:
 superuser: false
 title: Nicole Ang 
 user_groups:
-- Researchers
+- Experimental Mycology and Microbiome Research Group
 ---
 
 Nicole Ang is a PhD student studying how climate change-associated environmental stressors shape the adaptation and pathogenic potential of *Aspergillus* species, with a focus on microbial responses to dynamic and stressful environments.
