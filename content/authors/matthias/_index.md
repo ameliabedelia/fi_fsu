@@ -18,7 +18,7 @@ interests:
 organizations:
 - name:
   url:
-role: Lab manager
+role: Scientist & wet lab manager
 social:
 - icon: envelope
   icon_pack: fas
